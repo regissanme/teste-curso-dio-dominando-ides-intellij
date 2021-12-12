@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * Criação de uma calculadora
  *
- * @author Reginaldo Santos de Medeiros data: 12/12/2021 *
+ * @author Reginaldo Santos de Medeiros data: 12/12/2021
  */
 public class Calculadora {
 

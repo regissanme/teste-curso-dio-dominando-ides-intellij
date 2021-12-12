@@ -8,7 +8,7 @@ import br.com.dio.model.Gato;
  *
  * Criação o programa principal
  *
- * @author Reginaldo Santos de Medeiros data: 12/12/2021 *
+ * @author Reginaldo Santos de Medeiros data: 12/12/2021
  */
 public class PrimeiroPrograma {
     public static void main(String[] args) {
