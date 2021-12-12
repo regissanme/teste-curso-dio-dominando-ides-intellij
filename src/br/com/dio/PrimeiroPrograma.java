@@ -12,6 +12,8 @@ public class PrimeiroPrograma {
         System.out.println(gato);
         Livro livro = new Livro("The Foundation", 600);
         System.out.println(livro);
+        Livro livro1 = new Livro("Robôs", 600);
+        System.out.println(livro1);
     }
 }
 class Livro {
