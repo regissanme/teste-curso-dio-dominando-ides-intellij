@@ -1,7 +1,15 @@
 package br.com.dio.model;
 
 import java.util.Objects;
-
+/**
+ * Curso: "Dominando IDE's Java" da DIO para o Bootcamp Java Cognizant"
+ * Especialista da DIO: Camila Cavalcante
+ * #teamJavaCog
+ *
+ * Criação da Classe Gato
+ *
+ * @author Reginaldo Santos de Medeiros data: 12/12/2021 *
+ */
 public class Gato {
     private String nome;
     private String cor;
